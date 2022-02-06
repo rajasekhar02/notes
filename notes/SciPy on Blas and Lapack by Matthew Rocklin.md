@@ -20,3 +20,5 @@ Theono
 Logical Programming Language
 
 BLAS and LAPACK
+
+https://www.sympy.org/en/index.html
