@@ -5,6 +5,8 @@
 ### **squeue**:
   Command: squeue
 
+### **##**: [for commenting the lines in the sub file](https://stackoverflow.com/questions/40346871/comment-in-bash-script-processed-by-slurm)
+
   
   
 #### Reference: https://slurm.schedmd.com/quickstart.html
