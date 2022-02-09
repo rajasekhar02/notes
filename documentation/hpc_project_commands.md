@@ -2,6 +2,8 @@
 
 * **module avail**: to find all the available packages to load.
 
+* Reference: [module documentation](https://curc.readthedocs.io/en/latest/compute/modules.html)
+
 * sbatch \<filename\>.sub
 
 * squeue | grep -i 'rp6kp' -A 12
