@@ -49,3 +49,8 @@ Need to Learn CUDA Programming for GPU programming
 Halide Scheduler need to explored
 
 http://github.com/Halide
+
+* automatic scheduling in Halide: http://graphics.cs.cmu.edu/projects/halidesched/mullapudi16_halidesched.pdf
+* [PolyMage Tool](http://mcl.csa.iisc.ernet.in/polymage.html) is used to find the efficient schedules
+* Method used by the PolyMage Tool for finding the effective schedule is [polyhedral analysis](https://johnwickerson.github.io/papers/looppipelining_TCAD17.pdf).
+* FPGA acceletors are designed by using High Level Systhesis method. One of the tool for HLS is Vivado which converts the C program to a Verilog/VHDL.
