@@ -22,3 +22,6 @@ javadoc --module-path ../javafx-sdk-17.0.2/lib --add-modules javafx.controls,jav
 
 change jar file permissions:
 chmod a+rx demo.jar
+
+Jar File Documentation:
+https://docs.oracle.com/javase/7/docs/technotes/tools/windows/jar.html
