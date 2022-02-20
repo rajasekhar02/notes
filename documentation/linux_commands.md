@@ -42,3 +42,5 @@
 ---
 ### VIM Editor Commands: https://vim.rtorr.com/
 ---
+
+ls -la - to see the vim editor .swap files
