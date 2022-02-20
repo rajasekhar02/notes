@@ -44,3 +44,5 @@
 ---
 
 ls -la - to see the vim editor .swap files
+
+Ctrl+Q - to unfreeze the vim editor screen
