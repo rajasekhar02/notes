@@ -46,3 +46,5 @@
 ls -la - to see the vim editor .swap files
 
 Ctrl+Q - to unfreeze the vim editor screen
+
+[vim insert the same character acroos multiple lines](https://stackoverflow.com/questions/9549729/vim-insert-the-same-characters-across-multiple-lines)
