@@ -8,4 +8,4 @@ Linux Commands to change the java versions by using set update-alternatives for 
     
     sudo update-alternatives --install "/usr/bin/<command-name>" "<command-name>" "/usr/lib/jvm/jdk-17/bin/<command-name>" 1  
 
-Eg: sudo update-alternatives --install     "/usr/bin/jinfo"           "jinfo"      "/usr/lib/jvm/jdk-17/bin/jinfo" 1
+    Eg: sudo update-alternatives --install     "/usr/bin/jinfo"           "jinfo"      "/usr/lib/jvm/jdk-17/bin/jinfo" 1
