@@ -65,15 +65,12 @@
         * A small isoefficiency function means that small increments in the problem size are sufficient for the efficient utilization of an increasing number of processing elements, indicating that the parallel system is highly scalable. However, a large isoefficiency function indicates a poorly scalable parallel system. The isoefficiency function does not exist for unscalable parallel systems, because in such systems the efficiency cannot be kept at any constant value as p increases, no matter how fast the problem size is increased.
 
   * *Degree of Concurrency and the Isoefficiency Function*: The degree of concurrency is a measure of the number of operations that an algorithm can perform in parallel for a problem of size W; it is independent of the parallel architecture.
-     ```
-     EXAMPLE 5.17 EFFECT OF CONCURRENCY ON ISOEFFICIENCY FUNCTION
-    Consider solving a system of n equations in n variables by using Gaussian elimination (Section 8.3.1). The total amount of 
-    computation is Θ(n3). But then variables must be eliminated one after the other, and eliminating each variable requires Θ(n2) 
-    computations. Thus, at most Θ(n<sup>2</sup>) processing elements can be kept busy at any time. Since W = Θ(n3) for this problem, the 
-    degree of concurrency C(W) is Θ(W2/3) and at most Θ(W2/3) processing elements can be used efficiently. On the other hand, 
-    given p processing elements, the problem size should be at least Ω(p3/2) to use them all. Thus, the isoefficiency function of 
-    this computation due to concurrency is Θ(p3/2). 
-    ```
+     
+     <blockquote>
+     EXAMPLE 5.17 EFFECT OF CONCURRENCY ON ISOEFFICIENCY FUNCTION   
+
+     Consider solving a system of n equations in n variables by using Gaussian elimination (Section 8.3.1). The total amount of computation is Θ(n<sup>3</sup>). But then variables must be eliminated one after the other, and eliminating each variable requires Θ(n<sup>2</sup>) computations. Thus, at most Θ(n<sup>2</sup>) processing elements can be kept busy at any time. Since W = Θ(n<sup>3</sup>) for this  problem, the degree of concurrency C(W) is Θ(W<sup>2/3</sup>) and at most Θ(W<sup>2/3</sup>) processing elements can be used efficiently. On the other hand, given p processing elements, the problem size should be at least Ω(p<sup>3/2</sup>) to use them all. Thus, the isoefficiency function of this computation due to concurrency is Θ(p<sup>3/2</sup>). 
+    </blockquote>
 ----
 
  
