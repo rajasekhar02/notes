@@ -24,10 +24,13 @@
       >   Cost = T<sub>p</sub> + T<sub>p</sub> + ....p(processors) = p &#8226; T<sub>p</sub>
       * A parallel system is said to be cost-optimal if the cost of solving a problem on a parallel computer has the same asymptotic growth (in Θ terms) as a function of the input size as the fastest-known sequential algorithm on a single processing element.
    * Isoefficiency metric of Scalability: 
+       * The isoefficiency function f(N) of a parallel system represents the rate at which the problem size must be increased in order to maintain a fixed efficiency.
        * For a given problem size(W), as we increase the number of processing elements(p), the overall efficiency of the parallel system goes down. This phenomenon is common to all parallel systems.
        * In many cases, the efficiency of a parallel system increases if the problem size(W) is increased while keeping the number of processing elements(p) constant.
-       ![05fig23](https://user-images.githubusercontent.com/13390833/156667008-d0d08ab4-c2e1-41c6-9d85-d6cd313148d6.gif)
-       * For different parallel systems, the problem size must increase at different rates in order to maintain a fixed efficiency as the number of processing elements is increased.
+      
+      ![05fig23](https://user-images.githubusercontent.com/13390833/156667008-d0d08ab4-c2e1-41c6-9d85-d6cd313148d6.gif)
+      
+      * For different parallel systems, the problem size must increase at different rates in order to maintain a fixed efficiency as the number of processing elements is increased.
        *  This rate determines the degree of scalability of the parallel system.
        
        Equation 5.10. 
@@ -72,5 +75,10 @@
      Consider solving a system of n equations in n variables by using Gaussian elimination (Section 8.3.1). The total amount of computation is Θ(n<sup>3</sup>). But then variables must be eliminated one after the other, and eliminating each variable requires Θ(n<sup>2</sup>) computations. Thus, at most Θ(n<sup>2</sup>) processing elements can be kept busy at any time. Since W = Θ(n<sup>3</sup>) for this  problem, the degree of concurrency C(W) is Θ(W<sup>2/3</sup>) and at most Θ(W<sup>2/3</sup>) processing elements can be used efficiently. On the other hand, given p processing elements, the problem size should be at least Ω(p<sup>3/2</sup>) to use them all. Thus, the isoefficiency function of this computation due to concurrency is Θ(p<sup>3/2</sup>). 
     </blockquote>
 ----
-
+Amdahl's Law:
+ * Amdahl's Law is based on the assumption that we are trying to solve a problem of fixed size as quickly as possible. It provides an upper bound on the speedup achievable by applying a certain number of processors to solve the problem in parallel. It can also be used to determine the asymptotic speedup achievable as the number of processors increases.
+ * For example, this law assumes that if we are using a system with more than 10 processors, then any speedup advantage is dictated mainly by how clever we are at discovering the parallel parts of the program and how much we are able to execute those parallel parts simultaneously.
+ * Well, we must know or estimate the value of the fraction f for a given algorithm at the start. Knowing parallel fraction(f<sub>p</sub>) will give us an idea on what system speedup could be expected on a multiprocessor system. This alone should enable us to judge how much effort to spend trying to improve speedup by mapping the algorithm to a multiprocessor system.
+ *  Amdahl's law assumed that the fraction of parallelizable code is fixed and does not depend on problem size.
+ *  
  
