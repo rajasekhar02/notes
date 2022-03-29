@@ -1,10 +1,10 @@
-(Explanation about header files)[https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170]
+[Explanation about header files](https://docs.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170)
 
-(Create header and implementaion files 1)[http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf]
+[Create header and implementaion files 1](http://www.math.uaa.alaska.edu/~afkjm/csce211/handouts/SeparateCompilation.pdf)
 
-(Create Header and implementation files 2)[https://cookierobotics.com/040/]
+[Create Header and implementation files 2](https://cookierobotics.com/040/)
 
-(Having same names for Class Properties and the constructor parameters )[https://stackoverflow.com/questions/268587/can-i-use-identical-names-for-fields-and-constructor-parameters]
+[Having same names for Class Properties and the constructor parameters](https://stackoverflow.com/questions/268587/can-i-use-identical-names-for-fields-and-constructor-parameters)
 
 ---
 
