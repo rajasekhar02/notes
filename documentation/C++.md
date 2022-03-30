@@ -6,6 +6,10 @@
 
 [Having same names for Class Properties and the constructor parameters](https://stackoverflow.com/questions/268587/can-i-use-identical-names-for-fields-and-constructor-parameters)
 
+[C++ custom comparator for sets](https://usaco.guide/silver/custom-cpp-stl?lang=cpp)
+
+[When to use sets in c++](http://lafstern.org/matt/col1.pdf)
+
 ---
 
 Creating Anonymous String Array in C++
