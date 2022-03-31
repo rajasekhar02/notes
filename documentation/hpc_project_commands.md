@@ -11,3 +11,8 @@
 * ls foundryOutput | awk '{print "./foundryOutput/"$NF}'|xargs cat|awk -F"\n" '/^The integral/{print $NF}'
 
 * mpic++ -o "../bin/sievePrimes1" "../src/sievePrimes1.cpp" for cpp compiler
+
+---
+MPI Queries
+
+[Send Function through send and receive](https://stackoverflow.com/questions/35868050/mpi-broadcast-variable-of-auto-type)
