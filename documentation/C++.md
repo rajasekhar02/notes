@@ -10,6 +10,7 @@
 
 [When to use sets in c++](http://lafstern.org/matt/col1.pdf)
 
+[how can i use an array of function pointers](https://stackoverflow.com/questions/252748/how-can-i-use-an-array-of-function-pointers)
 ---
 
 Creating Anonymous String Array in C++
