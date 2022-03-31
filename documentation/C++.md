@@ -12,6 +12,8 @@
 
 [how can i use an array of function pointers](https://stackoverflow.com/questions/252748/how-can-i-use-an-array-of-function-pointers)
 
+[variable declared as extern](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
+
 ---
 
 Creating Anonymous String Array in C++
