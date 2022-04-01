@@ -16,9 +16,15 @@
 MPI Queries
 
 [Struct Serialization in C and transfer over mpi](https://stackoverflow.com/questions/9864510/struct-serialization-in-c-and-transfer-over-mpi)
+
 [Send Function through send and receive](https://stackoverflow.com/questions/35868050/mpi-broadcast-variable-of-auto-type)
+
 [MPI Send Struct with a vector property](https://stackoverflow.com/questions/36021305/mpi-send-struct-with-a-vector-property-in-c)
+
 [MPI C Send 2d array of structures](https://stackoverflow.com/questions/20228772/mpi-c-send-2d-array-of-structures)
+
 [mpi-c-derived-types-struct-of-vectors](https://stackoverflow.com/questions/18992701/mpi-c-derived-types-struct-of-vectors)
+
 [sending-blocks-of-2d-array-in-c-using-mpi](https://stackoverflow.com/questions/9269399/sending-blocks-of-2d-array-in-c-using-mpi/9271753#9271753)
+
 [Strange Segmentation Fault from mpi](https://stackoverflow.com/questions/12212476/strange-segmentation-fault-from-mpi)
