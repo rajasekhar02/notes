@@ -16,6 +16,8 @@
 
 [How to cast int to enum in c](https://stackoverflow.com/questions/11452920/how-to-cast-int-to-enum-in-c)
 
+[How to cast int to string](https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c)
+
 ---
 
 Creating Anonymous String Array in C++
