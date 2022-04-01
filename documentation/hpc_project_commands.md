@@ -27,4 +27,6 @@ MPI Queries
 
 [sending-blocks-of-2d-array-in-c-using-mpi](https://stackoverflow.com/questions/9269399/sending-blocks-of-2d-array-in-c-using-mpi/9271753#9271753)
 
+[MPI Custom Types](https://www.codingame.com/playgrounds/349/introduction-to-mpi/custom-types)
+
 [Strange Segmentation Fault from mpi](https://stackoverflow.com/questions/12212476/strange-segmentation-fault-from-mpi)
