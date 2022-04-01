@@ -14,6 +14,8 @@
 
 [variable declared as extern](https://stackoverflow.com/questions/1433204/how-do-i-use-extern-to-share-variables-between-source-files)
 
+[How to cast int to enum in c](https://stackoverflow.com/questions/11452920/how-to-cast-int-to-enum-in-c)
+
 ---
 
 Creating Anonymous String Array in C++
