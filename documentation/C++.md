@@ -19,6 +19,17 @@
 [How to cast int to string](https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c)
 
 ---
+Books need to refer
+
+https://www.thegeekstuff.com/2016/02/c-plus-plus-11/
+
+https://learning.oreilly.com/library/view/a-tour-of/9780134998053/?ar=
+
+https://www.stroustrup.com/C++11FAQ.html#std-random
+
+https://learning.oreilly.com/library/view/effective-modern-c/9781491908419/ch01.html?sso_link=yes&sso_link_from=university-of-missouri
+
+---
 
 Creating Anonymous String Array in C++
 ```c++
