@@ -4,6 +4,12 @@
 
 * Reference: [module documentation](https://curc.readthedocs.io/en/latest/compute/modules.html)
 
+* module show <module-name> -  this commands give the information about the module like path where the module is installed etc.
+
+---
+
+slurm
+
 * sbatch \<filename\>.sub
 
 * squeue | grep -i 'rp6kp' -A 12
@@ -30,3 +36,17 @@ MPI Queries
 [MPI Custom Types](https://www.codingame.com/playgrounds/349/introduction-to-mpi/custom-types)
 
 [Strange Segmentation Fault from mpi](https://stackoverflow.com/questions/12212476/strange-segmentation-fault-from-mpi)
+
+---
+  
+CUDA Commands
+  
+  Below command is useful to compile the cuda file having cublas dependency. 
+  
+  -I - to include the include file from external path
+  
+  -L - to include the library from the external path
+  
+ ```shell 
+ nvcc ./source/matrix_mm.cu  -lcublas -lculibos -I /share/apps/common/nvidia/hpc-sdk/20.11/Linux_x86_64/20.11/math_libs/include -L /share/apps/common/nvidia/hpc-sdk/20.11/Linux_x86_64/20.11/math_libs/lib64 -o myCublasApp
+  ```
