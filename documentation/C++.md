@@ -18,6 +18,8 @@
 
 [How to cast int to string](https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c)
 
+[IO on Binary Files](https://www.eecs.umich.edu/courses/eecs380/HANDOUTS/cppBinaryFileIO-2.html)
+
 ---
 Books need to refer
 
