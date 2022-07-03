@@ -16,6 +16,8 @@
 
 [How to cast int to enum in c](https://stackoverflow.com/questions/11452920/how-to-cast-int-to-enum-in-c)
 
+[using ifdef and ifndef](https://stackoverflow.com/questions/70393382/using-ifdef-and-ifndef-directives-to-include-header-files)
+
 [How to cast int to string](https://stackoverflow.com/questions/5590381/easiest-way-to-convert-int-to-string-in-c)
 
 [IO on Binary Files](https://www.eecs.umich.edu/courses/eecs380/HANDOUTS/cppBinaryFileIO-2.html)
