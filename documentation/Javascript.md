@@ -2,6 +2,8 @@
 
 [A short notes of Typed Arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)
 
+[Tasks Microtasks Queues and Schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
+
 ---
 ### Devtools
 
