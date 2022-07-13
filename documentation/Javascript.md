@@ -4,6 +4,7 @@
 
 [Tasks Microtasks Queues and Schedules](https://jakearchibald.com/2015/tasks-microtasks-queues-and-schedules/)
 
+[Deep Javascript](https://exploringjs.com/deep-js/toc.html) - Implementing Promises, Proxies on our own
 ---
 ### Devtools
 
