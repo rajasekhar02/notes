@@ -15,3 +15,7 @@
 Custom SSH Key path for git: [Reference](https://superuser.com/questions/232373/how-to-tell-git-which-private-key-to-use)
 
 ![image](https://user-images.githubusercontent.com/13390833/158631360-42fc69a6-9679-45a8-86af-f537ea391f14.png)
+
+---
+
+[To clear issue with Network drives in Git Bash](https://stackoverflow.com/questions/20047892/how-to-use-windows-network-paths-with-git-bash)
