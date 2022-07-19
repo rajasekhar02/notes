@@ -18,4 +18,4 @@ Custom SSH Key path for git: [Reference](https://superuser.com/questions/232373/
 
 ---
 
-[To clear issue with Network drives in Git Bash](https://stackoverflow.com/questions/20047892/how-to-use-windows-network-paths-with-git-bash)
+[How to navigate over network paths in Git Bash](https://stackoverflow.com/questions/20047892/how-to-use-windows-network-paths-with-git-bash)
