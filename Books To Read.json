@@ -1,0 +1,116 @@
+[
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/0201795256/",
+        "media_type": "BOOK",
+        "media_title": "C++ Network Programming, Volume 2: Systematic Reuse with ACE and Frameworks",
+        "authors": "Douglas C. Schmidt and Stephen D. Huston"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/0201604647/",
+        "media_type": "BOOK",
+        "media_title": "C++ Network Programming, Volume 1: Mastering Complexity with ACE and Patterns",
+        "authors": "Douglas C. Schmidt and Stephen D. Huston"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9780132180160/",
+        "media_type": "BOOK",
+        "media_title": "CUDA by Example: An Introduction to General-Purpose GPU Programming",
+        "authors": "Jason Sanders and Edward Kandrot"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781785288180/",
+        "media_type": "BOOK",
+        "media_title": "Akka Cookbook",
+        "authors": "Héctor Veiga Ortiz and Piyush Mishra"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781617291012/",
+        "media_type": "BOOK",
+        "media_title": "Akka in Action",
+        "authors": "Rob Williams, Raymond Roestenburg and Robertus Bakker"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781491934876/",
+        "media_type": "BOOK",
+        "media_title": "Applied Akka Patterns",
+        "authors": "Michael Nash and Wade Waldron"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9780133261516/",
+        "media_type": "BOOK",
+        "media_title": "The CUDA Handbook: A Comprehensive Guide to GPU Programming",
+        "authors": "Nicholas Wilt"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9780128119877/",
+        "media_type": "BOOK",
+        "media_title": "Programming Massively Parallel Processors, 3rd Edition",
+        "authors": "David B. Kirk and Wen-mei W. Hwu"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9780128039380/",
+        "media_type": "BOOK",
+        "media_title": "Topics in Parallel and Distributed Computing",
+        "authors": "Sushil K Prasad, Anshul Gupta, Arnold L Rosenberg, Alan Sussman and Charles C Weems, Jr."
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781617292439/",
+        "media_type": "BOOK",
+        "media_title": "SPA Design and Architecture: Understanding single-page web applications",
+        "authors": "Emmit A. Scott Jr."
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781118787397/",
+        "media_type": "BOOK",
+        "media_title": "Practical Reverse Engineering: x86, x64, ARM, Windows Kernel, Reversing Tools, and Obfuscation",
+        "authors": "Bruce Dang, Alexandre Gazet, Elias Bachaalany and Sébastien Josse"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9780135473382/",
+        "media_type": "COURSE",
+        "media_title": "Linux Foundation Certified System Administrator (LFCS)",
+        "authors": "Sander van Vugt"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781789953435/",
+        "media_type": "BOOK",
+        "media_title": "Linux Kernel Programming",
+        "authors": "Kaiwan N Billimoria"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781801079518/",
+        "media_type": "BOOK",
+        "media_title": "Linux Kernel Programming Part 2 - Char Device Drivers and Kernel Synchronization",
+        "authors": "Kaiwan N Billimoria"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781617292330/",
+        "media_type": "BOOK",
+        "media_title": "Practical Probabilistic Programming",
+        "authors": "Avi Pfeffer"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781786461629/",
+        "media_type": "BOOK",
+        "media_title": "Mastering C++ Programming",
+        "authors": "Jeganathan Swaminathan"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781787124943/",
+        "media_type": "BOOK",
+        "media_title": "Beginning C++ Programming",
+        "authors": "Richard Grimes"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9781491908419/",
+        "media_type": "CHAPTER",
+        "media_title": "Effective Modern C++",
+        "authors": "Scott Meyers"
+    },
+    {
+        "cover_link": "https://learning.oreilly.com/library/cover/9780134998053/",
+        "media_type": "BOOK",
+        "media_title": "A Tour of C++, 2nd Edition",
+        "authors": "Bjarne Stroustrup"
+    }
+]
