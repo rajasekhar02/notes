@@ -46,7 +46,7 @@ Read and study more to fill them.
 
 ---
 
-Step 4: Organize, Convey & Review
+#### Step 4: Organize, Convey & Review
 
 Organize your elegant, simple language into a clear, compelling story or narrative.
 
@@ -81,7 +81,3 @@ How to learn from books:
 Read -> Think -> Take notes -> Reflect and revisit occasionally.
 
 ---
-
-
-
-
