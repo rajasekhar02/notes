@@ -47,9 +47,33 @@ ls -la - to see the vim editor .swap files
 
 Ctrl+Q - to unfreeze the vim editor screen
 
+---
+
 [vim insert the same character acroos multiple lines](https://stackoverflow.com/questions/9549729/vim-insert-the-same-characters-across-multiple-lines)
+
+---
 
 # Store file name containing dates and time
 > bash ./play.sh Joueur.js chess mygame > "./matches/$(date +"%Y_%m_%d_%I_%M_%p").log"
 
+---
+
 [linux history command](https://opensource.com/article/18/6/history-command#:~:text=Removing%20history&text=If%20you%20want%20to%20delete,in%20their%20home%20directory%20as%20)
+
+---
+
+[We can Edit Large text file in UNIX without opening it using SED](https://www.gnu.org/software/sed/manual/sed.html)
+
+---
+
+[lsof (list open files)](https://man7.org/linux/man-pages/man8/lsof.8.html) command find out the process which has a file handle on the particular file.
+
+---
+
+Find all processes listening on particular port in linux
+ > netstat -nap | grep <port-number>
+
+---
+
+
+
