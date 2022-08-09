@@ -20,8 +20,9 @@ awk <space> <options>"<corresponding parameters>" <space> '/<reg-exp>/{<function
 
 ---  
 
- ### **grep** \<space\> \<**options**\>"\<**corresponding parameters**\>" \<space\> ' \<string\> or \<reg-exp\>'
-  
+```bash
+grep <space> <options>"<corresponding parameters>" <space> '<string> or <reg-exp>'
+```
 <pre> example: 
   grep -i 'abcd' -A 12
   
@@ -36,8 +37,9 @@ awk <space> <options>"<corresponding parameters>" <space> '/<reg-exp>/{<function
 ---
 
  ### xargs: to pass the output of one function as a argument to the another function
- <pre> eg: 
- ls foundryOutput | awk '{print "./foundryOutput/"$NF}'| **xargs** cat|awk -F"\n" '/^The integral/{print $NF}'</pre>
+ <pre> example: 
+ ls foundryOutput | awk '{print "./foundryOutput/"$NF}'| **xargs** cat|awk -F"\n" '/^The integral/{print $NF}'
+ </pre>
  #### Reference: https://man7.org/linux/man-pages/man1/xargs.1.html
 
 ---
