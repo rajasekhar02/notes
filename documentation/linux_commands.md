@@ -1,6 +1,7 @@
 
-
- ### **awk** \<space\> \<**options**\>"\<**corresponding parameters**\>" \<space\> '/\<reg-exp\>/{<function-name> "$<param(n-1)>"}'
+```bash
+**awk** \<space\> \<**options**\>"\<**corresponding parameters**\>" \<space\> '/\<reg-exp\>/{<function-name> "$<param(n-1)>"}'
+```
   
 <pre> example: 
   awk -F"\n" '/^The integral/{print $NF}'
