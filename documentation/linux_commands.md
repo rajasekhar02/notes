@@ -1,6 +1,6 @@
 
 ```bash
-**awk** \<space\> \<**options**\>"\<**corresponding parameters**\>" \<space\> '/\<reg-exp\>/{<function-name> "$<param(n-1)>"}'
+awk <space> <options>"<corresponding parameters>" <space> '/<reg-exp>/{<function-name> "$<param(n-1)>"}'
 ```
   
 <pre> example: 
