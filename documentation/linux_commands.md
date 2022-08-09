@@ -55,7 +55,7 @@ Ctrl+Q - to unfreeze the vim editor screen
 
 # Store file name containing dates and time
  ```console 
-  bash ./play.sh Joueur.js chess mygame > "./matches/$(date +"%Y_%m_%d_%I_%M_%p").log"
+  foo@bar:~$ bash ./play.sh Joueur.js chess mygame > "./matches/$(date +"%Y_%m_%d_%I_%M_%p").log"
  ```
 
 ---
@@ -74,7 +74,7 @@ Ctrl+Q - to unfreeze the vim editor screen
 
 Find all processes listening on particular port in linux
  ```console
-  netstat -nap | grep <port-number>
+ foo@bar:~$ netstat -nap | grep <port-number>
  ```
 ---
 
