@@ -5,6 +5,8 @@
 5. Learn Rust programming Language.
 
 -------------------------
-What I am missing when working on the goal ? 
+What I am missing when working on the goal ?
+
 Can I plan next 3 days what I am going to work on ?
+
 Are these goals aligned with my course I am learning ?
