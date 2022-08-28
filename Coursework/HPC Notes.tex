@@ -1,0 +1,67 @@
+\documentclass{article} 
+\usepackage{neuralnetwork} 
+\begin{document} 
+	\section{Principles for Parallel Algorithm Design}
+	
+	\begin{itemize}
+		\item[Partition:]{It is of two types}
+				\begin{itemize}
+					\item Domain Decomposition
+					\item Functional Decomposition
+				\end{itemize}
+		\item[Communication:]{Two types of Communication exists}
+			\begin{itemize}
+				\item Global
+				\item Local
+			\end{itemize}
+		\item[Agglomeration:]{Depends on Data locality}
+		\item[Mapping:]{The main objectives in this phase are}
+			\begin{itemize}
+				\item Minimizing communication
+				\item Enabling Concurrency by assigning tasks
+				\item Balance Work Load between processors
+			\end{itemize}
+	\end{itemize}
+	
+	\section{Runtime of a sequential program (T)}
+		T(1) = $T_{serial}$ + $T_{parallel}$ for 1 processors
+		
+		$\newline$ 
+		T(P) = $T_{serial}$ + $\frac{T_{parallel}}{P} $ for 'P' processors
+						
+		$\newline$
+		where
+			$\newline$ $\indent$ $T_{serial}$ = program does not benefit from parallelization 
+			$\newline$ $\indent$ $T_{parallel}$ = program that benefits from parallelization
+	
+	\section{Speedup \& its laws}
+	\subsection{Speedup}
+	\begin{equation*}
+		\begin{split} \label{x5}
+			Speedup &= \frac{Sequential}{Parallel} \\
+					&= \frac{T(1)}{T(P)}
+		\end{split}
+	\end{equation*}
+	Here $T_{serial} \& T_{parallel} are absolute runtimes
+	Let convert them to fractions of the T(1)
+	i.e T_{parallel} = f * T(1) \& T_{serial} = (1-f)*T(1)
+	
+	\section{Isoefficiency}
+	Let
+		$\newline$ \indent W $\rightarrow$ problem size,
+		$\newline$ \indent $T_{0}$	$\rightarrow$ parallel overhead
+		$\newline$ \indent $T_{1}$ $\rightarrow$ W*$t_{c}$
+		$\newline$ \indent where $t_{c}$ = time taken for computation (or) cost of executing each operation
+		$\newline$ Total execution time spent by 'P' processors 
+		$\newline$ 
+		\begin{align*}
+			P*T_{parallel} &= T_{1} + T_{0} \\
+			T_{parallel} &= \frac{T_{1} + T_{0}}{P}
+		\end{align*}
+	
+		\begin{align*}
+			P*T_{parallel} &= T_{1} + T_{0} \\
+			T_{parallel} &= \frac{T_{1} + T_{0}}{P}
+		\end{align*}
+		
+\end{document}
