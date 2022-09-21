@@ -1,22 +1,40 @@
 Raja Sekhar Pothina     
 =====================
 
- asdfasdf                             | sdafasdfasdf
-------------------------------------- | -------------------------------
-1300 North Oak Street                 |       raja02sekhar08@gmail.com
-Apt 6                                 |                 +1-573-202-1224
-Rolla                                 |
-Missouri-65401                        |
+Address:
+========
+1300 North Oak Street                      
+Apt 6                                                
+Rolla                                 
+Missouri-65401                        
  
------
+Contact:
+=======
+raja02sekhar08@gmail.com
++1-573-202-1224
 
 Languages and Technologies
+===========================
+**Languages:** Javascript, Python, Java, C#, VBScript, SQL, C, C++
 
-Languages: Javascript, Python, Java, C#, VBScript, SQL
+**Technologies:** Vue.js, React.js, Bootstrap, Node.js, Puppeteer, Excel Automation Api, Open MPI, Hadoop, Spark
 
-Technologies: Vue.js, React.js, Bootstrap, Node.js, Puppeteer, Excel Automation Api, Open MPI
+**Databases:** MongoDB, MySQL
 
-Other: API design, Relational Databases, NoSQL Databases, Solvers, Evolutionary Algorithms
+**Other:** Data Structures, Algorithms, Distributed Systems, DBMS, OS, Solvers, Evolutionary Algorithms
 
-Working knowledge of: Javascript, C#, VBScript
+**Industrial Working knowledge:** Javascript, C#, VBScript
+
+----
+**Eruvaka Technologies Pvt Limited**
+
+Software Developer(Associate/Mid) - Jan 2019-Jan 2022
+
+----
+**Tata Consultancy Services**
+
+Assistant System Engineer - July 2017 - Dec 2018
+
+----
+
 
