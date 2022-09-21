@@ -6,7 +6,7 @@ Raja Sekhar Pothina
 1300 North Oak Street                 |       raja02sekhar08@gmail.com
 Apt 6                                 |                 +1-573-202-1224
 Rolla                                 |
-Missouri-65401       |
+Missouri-65401                        |
  
 -----
 
@@ -18,4 +18,5 @@ Technologies: Vue.js, React.js, Bootstrap, Node.js, Puppeteer, Excel Automation 
 
 Other: API design, Relational Databases, NoSQL Databases, Solvers, Evolutionary Algorithms
 
+Working knowledge of: Javascript, C#, VBScript
 
