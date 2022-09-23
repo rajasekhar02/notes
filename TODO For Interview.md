@@ -9,3 +9,8 @@ MPI-Message passing interface
 [Read the fun and profit of distributed systems](http://book.mixu.net/distsys/single-page.html)
 
 Can you define what is Distributed System ?
+
+OpenMP ppts
+
+https://slurm.schedmd.com/documentation.html
+
