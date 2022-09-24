@@ -81,5 +81,6 @@ Find all processes listening on particular port in linux
  ```
 ---
 
+[Handling Snapstore update Ubuntu](https://askubuntu.com/questions/1412575/pending-update-of-snap-store)
 
 
