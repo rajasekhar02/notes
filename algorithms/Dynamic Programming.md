@@ -1,4 +1,4 @@
-Lecture - 3
+[Lecture - 3](https://mediaspace.illinois.edu/media/t/1_hv5wrwvm)
 ===========
 
 Algo - 1: Latin String Splitting
@@ -23,7 +23,7 @@ Algo-2: Longest Increasing SubSequence
 
 ----
 
-Lecture - 4
+[Lecture - 4](https://mediaspace.illinois.edu/media/t/1_zsec8an2)
 ===========
 
 What do we need to specify ?
