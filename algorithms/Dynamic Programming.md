@@ -28,7 +28,6 @@ Lecture - 4
 
 What do we need to specify ?
 1. English Specification
-<describing the importance of naming convention>
 2. Recurrence with Braces (Optional if 4 is given)
 3. Iterative Details (Optional if 4 is given)
 	1. Data Structure to use (Name the axis of the data structure)
