@@ -50,9 +50,15 @@ Woodcutter's Problem
 Rod Cutting Problem
 
 Problem to solve: min cost to the cut plank containing boards i..j into individual board ?
+
 Do I need to remember any thing from the state ?
+
 What is the structure ? -> Binary Tree
- Time Complexity: O(n^3)
- Filling Order:
+
+Time Complexity: O(n^3)
+
+Filling Order:
+
 	Choice 1: Left to Right, Bottom to top
+	
 	Choice 2: Diagonally from bottom to top
