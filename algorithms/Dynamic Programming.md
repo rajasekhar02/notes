@@ -22,6 +22,7 @@ Algo-2: Longest Increasing SubSequence
 	Running Time: O(n^2)
 
 ----
+
 Lecture - 4
 ===========
 
@@ -35,7 +36,6 @@ What do we need to specify ?
 	3. Running Time
 4. Pseudo Code( Optional if 2,3 Specified)
 
-----
 
 LIS: Take 2
 ============
@@ -44,7 +44,6 @@ Right to left : Asking is this the first element
 => Practice to Follow: Write a recurence first than the base case
 Data Structure: 1d Array
 
-----
 
 Woodcutter's Problem
 ====================
