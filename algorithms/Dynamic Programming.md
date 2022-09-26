@@ -47,18 +47,22 @@ Data Structure: 1d Array
 Woodcutter's Problem
 ====================
 
-Rod Cutting Problem
+	A variation of Rod Cutting Problem
 
-Problem to solve: min cost to the cut plank containing boards i..j into individual board ?
+	In rod cutting problem, we no need cut the sub parts once we did the cut
 
-Do I need to remember any thing from the state ?
+	**Where as in this problem, we need cut the sub parts after we did the cut**
 
-What is the structure ? -> Binary Tree
+	Problem to solve: min cost to the cut plank containing boards i..j into individual board ?
 
-Time Complexity: O(n^3)
+	Do I need to remember any thing from the state ?
 
-Filling Order:
+	What is the structure ? -> Binary Tree
 
-	Choice 1: Left to Right, Bottom to top
-	
-	Choice 2: Diagonally from bottom to top
+	Time Complexity: O(n^3)
+
+	Filling Order:
+
+		Choice 1: Left to Right, Bottom to top
+
+		Choice 2: Diagonally from bottom to top
