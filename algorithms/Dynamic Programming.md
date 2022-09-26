@@ -21,3 +21,41 @@ Algo-2: Longest Increasing SubSequence
 		1. outter loop from right to left
 		2. Inner loop any order as there are no dependency in the same column
 	Running Time: O(n^2)
+
+----
+Lecture - 4
+===========
+
+What do we need to specify ?
+1. English Specification
+<describing the importance of naming convention>
+2. Recurrence with Braces (Optional if 4 is given)
+3. Iterative Details (Optional if 4 is given)
+	1. Data Structure to use (Name the axis of the data structure)
+	2. Order to traverse the data structure 
+	3. Running Time
+4. Pseudo Code( Optional if 2,3 Specified)
+
+----
+
+LIS: Take 2
+============
+
+Right to left : Asking is this the first element 
+=> Practice to Follow: Write a recurence first than the base case
+Data Structure: 1d Array
+
+----
+
+Woodcutter's Problem
+====================
+
+Rod Cutting Problem
+
+Problem to solve: min cost to the cut plank containing boards i..j into individual board ?
+Do I need to remember any thing from the state ?
+What is the structure ? -> Binary Tree
+ Time Complexity: O(n^3)
+ Filling Order:
+	Choice 1: Left to Right, Bottom to top
+	Choice 2: Diagonally from bottom to top
